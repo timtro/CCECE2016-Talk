@@ -11,39 +11,39 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="768"
-   viewBox="0 0 1024 768"
-   version="1.1"
-   id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   enable-background="new"
    sodipodi:docname="2018_CCECE.svg"
-   enable-background="new">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 1024 768"
+   height="768"
+   width="1024">
   <sodipodi:namedview
-     inkscape:current-layer="svg8"
-     id="base"
-     pagecolor="#171717"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="563.42766"
-     inkscape:cy="375.10188"
-     inkscape:document-units="px"
-     showgrid="true"
-     units="px"
-     inkscape:pagecheckerboard="false"
-     inkscape:window-width="1908"
-     inkscape:window-height="1168"
-     inkscape:window-x="5"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     objecttolerance="1"
-     gridtolerance="1"
-     guidetolerance="1"
+     borderlayer="true"
      showguides="true"
-     borderlayer="true">
+     guidetolerance="1"
+     gridtolerance="1"
+     objecttolerance="1"
+     inkscape:window-maximized="0"
+     inkscape:window-y="25"
+     inkscape:window-x="5"
+     inkscape:window-height="1168"
+     inkscape:window-width="1908"
+     inkscape:pagecheckerboard="false"
+     units="px"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:cy="375.10188"
+     inkscape:cx="563.42766"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#171717"
+     id="base"
+     inkscape:current-layer="svg8">
     <inkscape:grid
        empopacity="0.25098039"
        empcolor="#ff3f3f"
@@ -2530,78 +2530,89 @@
      id="layer10"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
-    <text
-       id="text33751"
-       y="200.29425"
-       x="192.43408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
+    <g
+       id="g15063">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
+         x="192.43408"
          y="200.29425"
-         x="192.43408"
-         id="tspan33749"
-         sodipodi:role="line">Functional programming is programming</tspan><tspan
-         id="tspan33753"
-         y="250.29425"
-         x="192.43408"
-         sodipodi:role="line">  with a mathematical model.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc241d;fill-opacity:1;stroke:none"
-       x="121.21833"
-       y="200.29425"
-       id="text33761"><tspan
-         sodipodi:role="line"
-         x="121.21833"
+         id="text33751"><tspan
+           sodipodi:role="line"
+           id="tspan33749"
+           x="192.43408"
+           y="200.29425">Functional programming is programming</tspan><tspan
+           sodipodi:role="line"
+           x="192.43408"
+           y="250.29425"
+           id="tspan33753">  with a mathematical model.</tspan></text>
+      <text
+         id="text33761"
          y="200.29425"
-         id="tspan33759">•</tspan></text>
-    <text
-       id="text33767"
-       y="392.22324"
-       x="121.21833"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d79921;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan33765"
-         y="392.22324"
          x="121.21833"
-         sodipodi:role="line">•</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#98971a;fill-opacity:1;stroke:none"
-       x="121.21833"
-       y="583.14203"
-       id="text33771"><tspan
-         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc241d;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan33759"
+           y="200.29425"
+           x="121.21833"
+           sodipodi:role="line">•</tspan></text>
+    </g>
+    <g
+       id="g15070"
+       ns1:effectIn="name:fade;order:1;length:300">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d79921;fill-opacity:1;stroke:none"
          x="121.21833"
-         y="583.14203"
-         id="tspan33769">•</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
-       x="192.43408"
-       y="392.22324"
-       id="text33777"><tspan
-         sodipodi:role="line"
-         x="192.43408"
          y="392.22324"
-         id="tspan33775">FP is to software engineering as physics is</tspan><tspan
-         id="tspan33787"
-         sodipodi:role="line"
+         id="text33767"><tspan
+           sodipodi:role="line"
+           x="121.21833"
+           y="392.22324"
+           id="tspan33765">•</tspan></text>
+      <text
+         id="text33777"
+         y="392.22324"
          x="192.43408"
-         y="442.22324">  to the rest of engineering</tspan></text>
-    <text
-       id="text33783"
-       y="583.14203"
-       x="192.43408"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan33781"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan33775"
+           y="392.22324"
+           x="192.43408"
+           sodipodi:role="line">FP is to software engineering as physics is</tspan><tspan
+           y="442.22324"
+           x="192.43408"
+           sodipodi:role="line"
+           id="tspan33787">  to the rest of engineering</tspan></text>
+    </g>
+    <g
+       ns1:effectIn="name:fade;order:2;length:300"
+       id="g15077">
+      <text
+         id="text33771"
          y="583.14203"
+         x="121.21833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#98971a;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan33769"
+           y="583.14203"
+           x="121.21833"
+           sodipodi:role="line">•</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
          x="192.43408"
-         sodipodi:role="line">The underlying model of computation is in</tspan><tspan
-         id="tspan33791"
-         y="633.14203"
-         x="192.43408"
-         sodipodi:role="line">  category theory.</tspan></text>
+         y="583.14203"
+         id="text33783"><tspan
+           sodipodi:role="line"
+           x="192.43408"
+           y="583.14203"
+           id="tspan33781">The underlying model of computation is in</tspan><tspan
+           sodipodi:role="line"
+           x="192.43408"
+           y="633.14203"
+           id="tspan33791">  category theory.</tspan></text>
+    </g>
   </g>
   <g
      sodipodi:insensitive="true"
