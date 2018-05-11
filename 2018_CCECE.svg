@@ -4547,17 +4547,95 @@
            id="rect12293" /></flowRegion><flowPara
          id="flowPara12295" /></flowRoot>    <g
        id="g33681">
-      <text
-         xml:space="preserve"
+      <g
+         aria-label="foo : T → std::optional&lt;U&gt;"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f5d7;fill-opacity:1;stroke:none"
-         x="512.33221"
-         y="450.06323"
-         id="text12319"><tspan
+         id="text12319">
+        <path
+           d="m 210.21534,450.06323 h 3.24 v -16.76 h 8.16 v -2.68 h -8.16 v -1.76 c 0,-3.16 1.44,-5.08 4.92,-5.08 1.68,0 2.92,0.2 4.52,0.92 l 0.76,-2.48 c -1.84,-0.76 -3.68,-1.12 -5.6,-1.12 -5.36,0 -7.84,3.12 -7.84,7.88 v 1.64 l -5.56,0.2 v 2.48 h 5.56 z"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
-           sodipodi:role="line"
-           id="tspan12317"
-           x="512.33221"
-           y="450.06323">foo : T → std::optional&lt;U&gt;</tspan></text>
+           id="path23714" />
+        <path
+           d="m 236.51971,450.54323 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23716" />
+        <path
+           d="m 260.50409,450.54323 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23718" />
+        <path
+           d="m 308.47284,436.22323 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23720" />
+        <path
+           d="m 354.76159,450.06323 h 3.36 v -23.44 h 8.64 v -2.8 h -20.64 v 2.8 h 8.64 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23722" />
+        <path
+           d="m 404.77034,450.66323 10.92,-10.6 v -0.16 l -10.92,-10.6 -1.68,1.84 8.04,7.48 h -17.56 v 2.72 h 17.56 l -8.04,7.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23724" />
+        <path
+           d="m 452.77909,450.54323 c 5.56,0 8.64,-2.64 8.64,-5.8 0,-2.96 -1.56,-4.6 -8.04,-6 -3.96,-0.84 -5.64,-1.56 -5.64,-3.24 0,-1.48 1.16,-2.8 4.48,-2.8 2.48,0 4.72,0.8 6.52,2.04 l 1.6,-2.12 c -1.92,-1.32 -4.88,-2.48 -7.84,-2.48 -5.32,0 -8.08,2.4 -8.08,5.52 0,2.92 2.56,4.64 7.6,5.68 5.28,1.08 6.08,2.12 6.08,3.6 0,1.64 -1.64,3.04 -4.92,3.04 -3.6,0 -6.2,-1.04 -8.44,-2.64 l -1.52,2.16 c 2.36,1.64 5.76,3.04 9.56,3.04 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23726" />
+        <path
+           d="m 480.12346,450.54323 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.72 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.84,8.04 7.52,8.04 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23728" />
+        <path
+           d="m 499.18784,450.54323 c 2.4,0 4.72,-1.4 6.32,-3.04 h 0.12 l 0.28,2.56 h 2.72 v -28.48 h -3.28 v 7.48 l 0.16,3.6 h -0.12 c -1.68,-1.6 -3.48,-2.52 -5.8,-2.52 -4.6,0 -8.84,3.92 -8.84,10.24 0,6.48 3.36,10.16 8.44,10.16 z m 0.68,-2.76 c -3.6,0 -5.72,-2.8 -5.72,-7.44 0,-4.44 2.72,-7.44 6.08,-7.44 1.68,0 3.36,0.64 5.12,2.28 v 9.68 c -1.72,1.92 -3.56,2.92 -5.48,2.92 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23730" />
+        <path
+           d="m 544.71659,436.22323 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m -16.8,-14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23732" />
+        <path
+           d="m 572.30096,450.54323 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23734" />
+        <path
+           d="m 588.00534,458.26323 h 3.28 v -6.56 l -0.16,-3.68 h 0.12 c 1.72,1.6 4,2.52 5.8,2.52 4.68,0 8.84,-3.88 8.84,-10.48 0,-6.04 -2.8,-9.92 -8.04,-9.92 -2.4,0 -4.92,1.24 -6.72,2.96 h -0.12 l -0.28,-2.48 h -2.72 z m 8.48,-10.48 c -1.32,0 -3.36,-0.64 -5.2,-2.28 v -9.68 c 2,-2 4,-2.92 5.72,-2.92 3.88,0 5.48,2.88 5.48,7.16 0,4.8 -2.52,7.72 -6,7.72 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23736" />
+        <path
+           d="m 624.02971,450.54323 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.72 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.84,8.04 7.52,8.04 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23738" />
+        <path
+           d="m 644.89409,450.06323 h 3.28 v -19.44 h -12.32 v 2.68 h 9.04 z m 1.28,-23.52 c 1.48,0 2.64,-1 2.64,-2.56 0,-1.52 -1.16,-2.56 -2.64,-2.56 -1.48,0 -2.64,1.04 -2.64,2.56 0,1.56 1.16,2.56 2.64,2.56 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23740" />
+        <path
+           d="m 668.23846,450.54323 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23742" />
+        <path
+           d="m 683.94284,450.06323 h 3.28 v -13.56 c 2.28,-2.36 3.84,-3.52 6.16,-3.52 3.2,0 4.48,1.76 4.48,5.44 v 11.64 h 3.28 v -12.08 c 0,-5.12 -2.12,-7.84 -6.72,-7.84 -3.04,0 -5.28,1.64 -7.32,3.8 h -0.16 l -0.28,-3.32 h -2.72 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23744" />
+        <path
+           d="m 714.04721,450.54323 c 2.76,0 5.52,-1.44 7.68,-3.12 h 0.12 l 0.28,2.64 h 2.68 v -11.92 c 0,-4.84 -2.56,-8 -7.88,-8 -3.4,0 -6.68,1.52 -8.64,2.8 l 1.28,2.24 c 1.8,-1.12 4.28,-2.32 6.8,-2.32 3.76,0 5.08,2.24 5.16,4.88 -10.04,0.8 -14.08,2.92 -14.08,7.28 0,3.48 2.96,5.52 6.6,5.52 z m 0.88,-2.64 c -2.24,0 -4.28,-0.92 -4.28,-3.12 0,-2.56 2.56,-4.2 10.88,-4.88 v 5.12 c -2.2,1.84 -4.4,2.88 -6.6,2.88 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23746" />
+        <path
+           d="m 744.47159,450.54323 c 2.12,0 3.4,-0.4 5.2,-1.16 l -0.84,-2.44 c -1.32,0.6 -2.52,0.88 -3.64,0.88 -2.32,0 -3.84,-1.2 -3.84,-4.04 v -22.2 h -10.2 v 2.68 h 6.92 v 19.28 c 0,4.6 2.28,7 6.4,7 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23748" />
+        <path
+           d="m 771.89596,448.14323 v -3.16 l -12.04,-8.12 v -0.16 l 12.04,-8.12 v -3.16 l -14.92,10.12 v 2.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23750" />
+        <path
+           d="m 788.20034,450.54323 c 5.12,0 8.8,-2.88 8.8,-10.4 v -16.32 h -3.24 v 16.4 c 0,5.44 -2.4,7.4 -5.56,7.4 -3.16,0 -5.52,-1.96 -5.52,-7.4 v -16.4 h -3.36 v 16.32 c 0,7.52 3.72,10.4 8.88,10.4 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23752" />
+        <path
+           d="m 804.42471,448.14323 14.92,-10.12 v -2.48 l -14.92,-10.12 v 3.16 l 12.04,8.12 v 0.16 l -12.04,8.12 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23754" />
+      </g>
       <g
          id="g12427"
          transform="translate(-61.619305)">
@@ -4584,19 +4662,19 @@
              y1="320"
              x1="200" />
         </g>
-        <text
-           id="text12374"
-           y="665.47217"
-           x="166.79594"
+        <g
+           aria-label="?T"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.08200073px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-14.81998158px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none;stroke-width:0.63063544"
-           xml:space="preserve"><tspan
-             y="665.47217"
-             x="166.79594"
-             id="tspan12372"
-             sodipodi:role="line"
-             style="letter-spacing:-14.81998158px;stroke-width:0.63063544">?<tspan
-   id="tspan12393"
-   style="font-size:64.99999762%;letter-spacing:-14.81998158px;baseline-shift:sub">T</tspan></tspan></text>
+           id="text12374">
+          <path
+             d="m 196.09779,637.38114 h 8.83898 c -2.17947,-15.74066 19.85745,-19.13095 19.85745,-35.5981 0,-11.50279 -9.08115,-18.8888 -22.52125,-18.8888 -9.32331,0 -16.8304,4.11679 -22.27909,9.80765 l 5.93302,5.44869 c 4.35895,-4.35896 9.56548,-7.02276 15.74066,-7.02276 8.83899,0 13.31902,5.08544 13.31902,11.74495 0,12.35037 -21.79476,17.19365 -18.88879,34.50837 z m 5.32761,29.54401 c 4.84328,0 8.83898,-3.63246 8.83898,-9.44439 0,-5.69086 -3.9957,-9.20224 -8.83898,-9.20224 -4.84328,0 -8.83899,3.51138 -8.83899,9.20224 0,5.81193 3.99571,9.44439 8.83899,9.44439 z"
+             style="letter-spacing:-14.81998158px;stroke-width:0.63063544"
+             id="path23830" />
+          <path
+             d="m 244.88332,689.68857 h 6.61108 v -46.12014 h 16.99991 v -5.50923 h -40.6109 v 5.50923 h 16.99991 z"
+             style="font-size:64.99999762%;letter-spacing:-14.81998158px;baseline-shift:sub"
+             id="path23832" />
+        </g>
         <polygon
            points="340,80 200,110 200,320 340,260 "
            id="polygon12376"
@@ -4639,19 +4717,19 @@
              y2="60"
              id="line12399" />
         </g>
-        <text
-           xml:space="preserve"
+        <g
+           aria-label="?U"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.08200073px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:-14.81998158px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none;stroke-width:0.63063544"
-           x="758.21802"
-           y="665.47217"
-           id="text12407"><tspan
+           id="text12407">
+          <path
+             d="m 787.51986,637.38114 h 8.83899 c -2.17948,-15.74066 19.85745,-19.13095 19.85745,-35.5981 0,-11.50279 -9.08115,-18.8888 -22.52126,-18.8888 -9.32331,0 -16.83039,4.11679 -22.27908,9.80765 l 5.93301,5.44869 c 4.35896,-4.35896 9.56548,-7.02276 15.74066,-7.02276 8.83899,0 13.31902,5.08544 13.31902,11.74495 0,12.35037 -21.79476,17.19365 -18.88879,34.50837 z m 5.32761,29.54401 c 4.84328,0 8.83899,-3.63246 8.83899,-9.44439 0,-5.69086 -3.99571,-9.20224 -8.83899,-9.20224 -4.84328,0 -8.83899,3.51138 -8.83899,9.20224 0,5.81193 3.99571,9.44439 8.83899,9.44439 z"
              style="letter-spacing:-14.81998158px;stroke-width:0.63063544"
-             sodipodi:role="line"
-             id="tspan12405"
-             x="758.21802"
-             y="665.47217">?<tspan
-   id="tspan12415"
-   style="font-size:64.99999762%;baseline-shift:sub">U</tspan></tspan></text>
+             id="path23835" />
+          <path
+             d="m 839.68964,690.63301 c 10.07402,0 17.31472,-5.66664 17.31472,-20.46286 V 638.0592 h -6.37497 v 32.26836 c 0,10.70365 -4.72219,14.56011 -10.93975,14.56011 -6.21756,0 -10.86106,-3.85646 -10.86106,-14.56011 V 638.0592 h -6.61108 v 32.11095 c 0,14.79622 7.31941,20.46286 17.47214,20.46286 z"
+             style="font-size:64.99999762%;baseline-shift:sub"
+             id="path23837" />
+        </g>
         <polygon
            transform="matrix(0.63063541,0,0,0.63063541,681.58396,516.71745)"
            style="fill:#d79921;fill-opacity:0.18518515;stroke:#fabd2f;stroke-width:3;stroke-linejoin:round"
@@ -4692,17 +4770,63 @@
     </g>
     <g
        id="g33655">
-      <text
-         id="text25222"
-         y="653.10388"
-         x="550.05768"
+      <g
+         aria-label="bindM(·, foo) ="
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f5d7;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="653.10388"
-           x="550.05768"
-           id="tspan25220"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">bindM(·, foo) =</tspan></text>
+         id="text25222">
+        <path
+           d="m 382.97487,653.58388 c 4.64,0 8.8,-3.88 8.8,-10.52 0,-6 -2.84,-9.88 -8.08,-9.88 -2.28,0 -4.76,1.16 -6.52,2.96 h -0.12 l 0.12,-3.76 v -7.76 h -3.28 v 28.48 h 2.64 l 0.28,-2.16 h 0.12 c 1.84,1.64 4.16,2.64 6.04,2.64 z m -0.52,-2.76 c -1.4,0 -3.44,-0.64 -5.28,-2.28 v -9.68 c 2,-2 4,-2.92 5.72,-2.92 3.88,0 5.48,2.88 5.48,7.16 0,4.8 -2.52,7.72 -5.92,7.72 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23687" />
+        <path
+           d="m 406.79924,653.10388 h 3.28 v -19.44 h -12.32 v 2.68 h 9.04 z m 1.28,-23.52 c 1.48,0 2.64,-1 2.64,-2.56 0,-1.52 -1.16,-2.56 -2.64,-2.56 -1.48,0 -2.64,1.04 -2.64,2.56 0,1.56 1.16,2.56 2.64,2.56 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23689" />
+        <path
+           d="m 421.86362,653.10388 h 3.28 v -13.56 c 2.28,-2.36 3.84,-3.52 6.16,-3.52 3.2,0 4.48,1.76 4.48,5.44 v 11.64 h 3.28 v -12.08 c 0,-5.12 -2.12,-7.84 -6.72,-7.84 -3.04,0 -5.28,1.64 -7.32,3.8 h -0.16 l -0.28,-3.32 h -2.72 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23691" />
+        <path
+           d="m 452.96799,653.58388 c 2.4,0 4.72,-1.4 6.32,-3.04 h 0.12 l 0.28,2.56 h 2.72 v -28.48 h -3.28 v 7.48 l 0.16,3.6 h -0.12 c -1.68,-1.6 -3.48,-2.52 -5.8,-2.52 -4.6,0 -8.84,3.92 -8.84,10.24 0,6.48 3.36,10.16 8.44,10.16 z m 0.68,-2.76 c -3.6,0 -5.72,-2.8 -5.72,-7.44 0,-4.44 2.72,-7.44 6.08,-7.44 1.68,0 3.36,0.64 5.12,2.28 v 9.68 c -1.72,1.92 -3.56,2.92 -5.48,2.92 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23693" />
+        <path
+           d="m 468.99237,653.10388 h 3.12 v -13.12 c 0,-2.56 -0.32,-7.04 -0.56,-9.28 h 0.08 l 1.52,5.12 3.68,10.32 h 2.4 l 3.76,-10.32 1.48,-5.12 h 0.12 c -0.16,2.24 -0.56,6.72 -0.56,9.28 v 13.12 h 3.2 v -26.24 h -4.08 l -3.72,11.2 -1.24,4.24 h -0.16 l -1.28,-4.24 -3.68,-11.2 h -4.08 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23695" />
+        <path
+           d="m 507.41674,660.14388 1.8,-1.68 c -5.36,-4.52 -7.84,-9.76 -7.84,-16.48 0,-6.72 2.48,-11.96 7.84,-16.48 l -1.8,-1.68 c -5.56,4.32 -9,10.44 -9,18.16 0,7.72 3.44,13.84 9,18.16 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23697" />
+        <path
+           d="m 526.08112,642.58388 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23699" />
+        <path
+           d="m 546.86549,661.62388 c 4.4,-1.64 7.04,-4.92 7.04,-9.6 0,-3.12 -1.24,-5.12 -3.6,-5.12 -1.72,0 -3.2,1.08 -3.2,3.04 0,2 1.4,3 3.12,3 0.24,0 0.52,0 0.76,-0.08 -0.12,3.16 -1.76,5.2 -5.04,6.68 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23701" />
+        <path
+           d="m 595.71424,653.10388 h 3.24 v -16.76 h 8.16 v -2.68 h -8.16 v -1.76 c 0,-3.16 1.44,-5.08 4.92,-5.08 1.68,0 2.92,0.2 4.52,0.92 l 0.76,-2.48 c -1.84,-0.76 -3.68,-1.12 -5.6,-1.12 -5.36,0 -7.84,3.12 -7.84,7.88 v 1.64 l -5.56,0.2 v 2.48 h 5.56 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23703" />
+        <path
+           d="m 622.01862,653.58388 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23705" />
+        <path
+           d="m 646.00299,653.58388 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23707" />
+        <path
+           d="m 664.66737,660.14388 c 5.56,-4.32 9,-10.44 9,-18.16 0,-7.72 -3.44,-13.84 -9,-18.16 l -1.8,1.68 c 5.36,4.52 7.84,9.76 7.84,16.48 0,6.72 -2.48,11.96 -7.84,16.48 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23709" />
+        <path
+           d="m 709.35612,636.86388 h 17.2 v -2.48 h -17.2 z m 0,8.56 h 17.2 v -2.48 h -17.2 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="path23711" />
+      </g>
       <path
          style="fill:none;stroke:#f9f5d7;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker25900)"
          d="m 256,579.60788 c 0,0 216.91893,-82.76224 268.04004,41.08194"
@@ -4712,36 +4836,143 @@
     </g>
     <g
        id="g33743">
-      <text
-         xml:space="preserve"
+      <g
+         aria-label="std::optional&lt;A&gt;
+      =     A             ∐    {std::nullopt}
+
+
+      ="
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
-         x="67.204689"
-         y="77.055656"
-         id="text12175"><tspan
-           sodipodi:role="line"
-           id="tspan12173"
-           x="67.204689"
-           y="77.055656">std::optional&lt;A&gt;</tspan><tspan
-           sodipodi:role="line"
-           x="67.204689"
-           y="127.44628"
-           id="tspan12267">      =     <tspan
-   style="fill:#98971a"
-   id="tspan12297">A</tspan>             ∐    {<tspan
-   style="fill:#cc241d"
-   id="tspan12299">std::nullopt</tspan>}</tspan><tspan
-           sodipodi:role="line"
-           x="67.204689"
-           y="177.44629"
-           id="tspan12261" /><tspan
-           sodipodi:role="line"
-           x="67.204689"
-           y="227.44629"
-           id="tspan12265" /><tspan
-           sodipodi:role="line"
-           x="67.204689"
-           y="277.44629"
-           id="tspan12263">      =</tspan></text>
+         id="text12175">
+        <path
+           d="m 79.604689,77.535656 c 5.56,0 8.64,-2.64 8.64,-5.8 0,-2.96 -1.56,-4.6 -8.04,-6 -3.96,-0.84 -5.64,-1.56 -5.64,-3.24 0,-1.48 1.16,-2.8 4.48,-2.8 2.48,0 4.72,0.8 6.52,2.04 l 1.6,-2.12 c -1.92,-1.32 -4.88,-2.48 -7.84,-2.48 -5.32,0 -8.08,2.4 -8.08,5.52 0,2.92 2.56,4.64 7.6,5.68 5.28,1.08 6.08,2.12 6.08,3.6 0,1.64 -1.64,3.04 -4.92,3.04 -3.6,0 -6.2,-1.04 -8.44,-2.64 l -1.52,2.16 c 2.36,1.64 5.76,3.04 9.56,3.04 z"
+           style=""
+           id="path23762" />
+        <path
+           d="m 106.94906,77.535656 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.719996 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.839996,8.04 7.519996,8.04 z"
+           style=""
+           id="path23764" />
+        <path
+           d="m 126.01344,77.535656 c 2.4,0 4.72,-1.4 6.32,-3.04 h 0.12 l 0.28,2.56 h 2.72 v -28.48 h -3.28 v 7.48 l 0.16,3.6 h -0.12 c -1.68,-1.6 -3.48,-2.52 -5.8,-2.52 -4.6,0 -8.84,3.92 -8.84,10.24 0,6.48 3.36,10.16 8.44,10.16 z m 0.68,-2.76 c -3.6,0 -5.72,-2.8 -5.72,-7.44 0,-4.44 2.72,-7.44 6.08,-7.44 1.68,0 3.36,0.64 5.12,2.28 v 9.68 c -1.72,1.92 -3.56,2.92 -5.48,2.92 z"
+           style=""
+           id="path23766" />
+        <path
+           d="m 171.54219,63.215656 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m -16.8,-14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z"
+           style=""
+           id="path23768" />
+        <path
+           d="m 199.12656,77.535656 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style=""
+           id="path23770" />
+        <path
+           d="m 214.83094,85.255656 h 3.28 v -6.56 l -0.16,-3.68 h 0.12 c 1.72,1.6 4,2.52 5.8,2.52 4.68,0 8.84,-3.88 8.84,-10.48 0,-6.04 -2.8,-9.92 -8.04,-9.92 -2.4,0 -4.92,1.24 -6.72,2.96 h -0.12 l -0.28,-2.48 h -2.72 z m 8.48,-10.48 c -1.32,0 -3.36,-0.64 -5.2,-2.28 v -9.68 c 2,-2 4,-2.92 5.72,-2.92 3.88,0 5.48,2.88 5.48,7.16 0,4.8 -2.52,7.72 -6,7.72 z"
+           style=""
+           id="path23772" />
+        <path
+           d="m 250.85531,77.535656 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.72 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.84,8.04 7.52,8.04 z"
+           style=""
+           id="path23774" />
+        <path
+           d="m 271.71969,77.055656 h 3.28 v -19.44 h -12.32 v 2.68 h 9.04 z m 1.28,-23.52 c 1.48,0 2.64,-1 2.64,-2.56 0,-1.52 -1.16,-2.56 -2.64,-2.56 -1.48,0 -2.64,1.04 -2.64,2.56 0,1.56 1.16,2.56 2.64,2.56 z"
+           style=""
+           id="path23776" />
+        <path
+           d="m 295.06406,77.535656 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style=""
+           id="path23778" />
+        <path
+           d="m 310.76844,77.055656 h 3.28 v -13.56 c 2.28,-2.36 3.84,-3.52 6.16,-3.52 3.2,0 4.48,1.76 4.48,5.44 v 11.64 h 3.28 v -12.08 c 0,-5.12 -2.12,-7.84 -6.72,-7.84 -3.04,0 -5.28,1.64 -7.32,3.8 h -0.16 l -0.28,-3.32 h -2.72 z"
+           style=""
+           id="path23780" />
+        <path
+           d="m 340.87281,77.535656 c 2.76,0 5.52,-1.44 7.68,-3.12 h 0.12 l 0.28,2.64 h 2.68 v -11.92 c 0,-4.84 -2.56,-8 -7.88,-8 -3.4,0 -6.68,1.52 -8.64,2.8 l 1.28,2.24 c 1.8,-1.12 4.28,-2.32 6.8,-2.32 3.76,0 5.08,2.24 5.16,4.88 -10.04,0.8 -14.08,2.92 -14.08,7.28 0,3.48 2.96,5.52 6.6,5.52 z m 0.88,-2.64 c -2.24,0 -4.28,-0.92 -4.28,-3.12 0,-2.56 2.56,-4.2 10.88,-4.88 v 5.12 c -2.2,1.84 -4.4,2.88 -6.6,2.88 z"
+           style=""
+           id="path23782" />
+        <path
+           d="m 371.29719,77.535656 c 2.12,0 3.4,-0.4 5.2,-1.16 l -0.84,-2.44 c -1.32,0.6 -2.52,0.88 -3.64,0.88 -2.32,0 -3.84,-1.2 -3.84,-4.04 v -22.2 h -10.2 v 2.68 h 6.92 v 19.28 c 0,4.6 2.28,7 6.4,7 z"
+           style=""
+           id="path23784" />
+        <path
+           d="m 398.72156,75.135656 v -3.16 l -12.04,-8.12 v -0.16 l 12.04,-8.12 v -3.16 l -14.92,10.12 v 2.48 z"
+           style=""
+           id="path23786" />
+        <path
+           d="m 412.26594,62.375656 c 0.92,-2.92 1.76,-5.8 2.6,-8.84 h 0.16 c 0.8,3.04 1.68,5.92 2.6,8.84 l 1.24,4 h -7.84 z m -8,14.68 h 3.4 l 2.52,-8 h 9.52 l 2.48,8 h 3.52 l -8.84,-26.24 h -3.76 z"
+           style=""
+           id="path23788" />
+        <path
+           d="m 431.25031,75.135656 14.92,-10.12 v -2.48 l -14.92,-10.12 v 3.16 l 12.04,8.12 v 0.16 l -12.04,8.12 z"
+           style=""
+           id="path23790" />
+        <path
+           d="m 214.51094,111.20628 h 17.2 v -2.48 h -17.2 z m 0,8.56 h 17.2 v -2.48 h -17.2 z"
+           style=""
+           id="path23792" />
+        <path
+           d="m 364.29719,112.76628 c 0.92,-2.92 1.76,-5.8 2.6,-8.84 h 0.16 c 0.8,3.04 1.68,5.92 2.6,8.84 l 1.24,4 h -7.84 z m -8,14.68 h 3.4 l 2.52,-8 h 9.52 l 2.48,8 h 3.52 l -8.84,-26.24 h -3.76 z"
+           style="fill:#98971a"
+           id="path23794" />
+        <path
+           d="M 547.59531,135.12206 V 98.67675 h 4.66797 v 32.44141 h 14.80469 V 98.67675 h 4.6875 v 36.44531 z"
+           style=""
+           id="path23796" />
+        <path
+           d="m 643.43844,133.52628 h 2.44 v -1.88 h -2.08 c -4.08,0 -4.96,-1.04 -4.96,-3.64 0,-2.44 0.24,-4.52 0.24,-7.24 0,-2.6 -0.88,-3.88 -3.64,-4.36 v -0.16 c 2.76,-0.48 3.64,-1.76 3.64,-4.36 0,-2.48 -0.24,-4.96 -0.24,-7.24 0,-2.6 0.88,-3.64 4.96,-3.64 h 2.08 v -1.879999 h -2.44 c -5.04,0 -7.4,1.199999 -7.4,5.319999 0,2.76 0.36,5.2 0.36,7.72 0,1.56 -1.08,3.08 -5.8,3.12 v 2.08 c 4.72,0.04 5.8,1.56 5.8,3.12 0,2.68 -0.36,4.8 -0.36,7.72 0,4.12 2.36,5.32 7.4,5.32 z"
+           style=""
+           id="path23798" />
+        <path
+           d="m 662.18281,127.92628 c 5.56,0 8.64,-2.64 8.64,-5.8 0,-2.96 -1.56,-4.6 -8.04,-6 -3.96,-0.84 -5.64,-1.56 -5.64,-3.24 0,-1.48 1.16,-2.8 4.48,-2.8 2.48,0 4.72,0.8 6.52,2.04 l 1.6,-2.12 c -1.92,-1.32 -4.88,-2.48 -7.84,-2.48 -5.32,0 -8.08,2.4 -8.08,5.52 0,2.92 2.56,4.64 7.6,5.68 5.28,1.08 6.08,2.12 6.08,3.6 0,1.64 -1.64,3.04 -4.92,3.04 -3.6,0 -6.2,-1.04 -8.44,-2.64 l -1.52,2.16 c 2.36,1.64 5.76,3.04 9.56,3.04 z"
+           style="fill:#cc241d"
+           id="path23800" />
+        <path
+           d="m 689.52719,127.92628 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.72 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.84,8.04 7.52,8.04 z"
+           style="fill:#cc241d"
+           id="path23802" />
+        <path
+           d="m 708.59156,127.92628 c 2.4,0 4.72,-1.4 6.32,-3.04 h 0.12 l 0.28,2.56 h 2.72 V 98.966281 h -3.28 v 7.479999 l 0.16,3.6 h -0.12 c -1.68,-1.6 -3.48,-2.52 -5.8,-2.52 -4.6,0 -8.84,3.92 -8.84,10.24 0,6.48 3.36,10.16 8.44,10.16 z m 0.68,-2.76 c -3.6,0 -5.72,-2.8 -5.72,-7.44 0,-4.44 2.72,-7.44 6.08,-7.44 1.68,0 3.36,0.64 5.12,2.28 v 9.68 c -1.72,1.92 -3.56,2.92 -5.48,2.92 z"
+           style="fill:#cc241d"
+           id="path23804" />
+        <path
+           d="m 754.12031,113.60628 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m -16.8,-14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z m 0,14.32 c 1.8,0 3.24,-1.36 3.24,-3.36 0,-2.04 -1.44,-3.4 -3.24,-3.4 -1.8,0 -3.24,1.36 -3.24,3.4 0,2 1.44,3.36 3.24,3.36 z"
+           style="fill:#cc241d"
+           id="path23806" />
+        <path
+           d="m 773.42469,127.44628 h 3.28 v -13.56 c 2.28,-2.36 3.84,-3.52 6.16,-3.52 3.2,0 4.48,1.76 4.48,5.44 v 11.64 h 3.28 v -12.08 c 0,-5.12 -2.12,-7.84 -6.72,-7.84 -3.04,0 -5.28,1.64 -7.32,3.8 h -0.16 l -0.28,-3.32 h -2.72 z"
+           style="fill:#cc241d"
+           id="path23808" />
+        <path
+           d="m 803.52906,127.92628 c 3,0 5.28,-1.6 7.24,-3.88 h 0.16 l 0.28,3.4 h 2.68 v -19.44 h -3.28 v 13.48 c -2.16,2.52 -3.8,3.6 -6.04,3.6 -3.24,0 -4.48,-1.76 -4.48,-5.44 v -11.64 h -3.32 v 12.08 c 0,5.12 2.12,7.84 6.76,7.84 z"
+           style="fill:#cc241d"
+           id="path23810" />
+        <path
+           d="m 833.95344,127.92628 c 2.12,0 3.4,-0.4 5.2,-1.16 l -0.84,-2.44 c -1.32,0.6 -2.52,0.88 -3.64,0.88 -2.32,0 -3.84,-1.2 -3.84,-4.04 V 98.966281 h -10.2 v 2.679999 h 6.92 v 19.28 c 0,4.6 2.28,7 6.4,7 z"
+           style="fill:#cc241d"
+           id="path23812" />
+        <path
+           d="m 857.93781,127.92628 c 2.12,0 3.4,-0.4 5.2,-1.16 l -0.84,-2.44 c -1.32,0.6 -2.52,0.88 -3.64,0.88 -2.32,0 -3.84,-1.2 -3.84,-4.04 V 98.966281 h -10.2 v 2.679999 h 6.92 v 19.28 c 0,4.6 2.28,7 6.4,7 z"
+           style="fill:#cc241d"
+           id="path23814" />
+        <path
+           d="m 877.64219,127.92628 c 5.12,0 9.6,-3.72 9.6,-10.16 0,-6.52 -4.48,-10.24 -9.6,-10.24 -5.12,0 -9.6,3.72 -9.6,10.24 0,6.44 4.48,10.16 9.6,10.16 z m 0,-2.72 c -3.72,0 -6.2,-3 -6.2,-7.44 0,-4.48 2.48,-7.52 6.2,-7.52 3.72,0 6.2,3.04 6.2,7.52 0,4.44 -2.48,7.44 -6.2,7.44 z"
+           style="fill:#cc241d"
+           id="path23816" />
+        <path
+           d="m 893.34656,135.64628 h 3.28 v -6.56 l -0.16,-3.68 h 0.12 c 1.72,1.6 4,2.52 5.8,2.52 4.68,0 8.84,-3.88 8.84,-10.48 0,-6.04 -2.8,-9.92 -8.04,-9.92 -2.4,0 -4.92,1.24 -6.72,2.96 h -0.12 l -0.28,-2.48 h -2.72 z m 8.48,-10.48 c -1.32,0 -3.36,-0.64 -5.2,-2.28 v -9.68 c 2,-2 4,-2.92 5.72,-2.92 3.88,0 5.48,2.88 5.48,7.16 0,4.8 -2.52,7.72 -6,7.72 z"
+           style="fill:#cc241d"
+           id="path23818" />
+        <path
+           d="m 929.37094,127.92628 c 2.44,0 4.32,-0.52 6.08,-1.16 l -0.72,-2.4 c -1.4,0.52 -2.84,0.88 -4.68,0.88 -3.76,0 -4.92,-1.84 -4.92,-5.32 v -9.24 h 9.56 v -2.68 h -9.56 v -6.24 h -2.72 l -0.44,6.24 -5.6,0.2 v 2.48 h 5.48 v 9.2 c 0,4.8 1.84,8.04 7.52,8.04 z"
+           style="fill:#cc241d"
+           id="path23820" />
+        <path
+           d="m 941.55531,133.52628 h 2.44 c 5,0 7.36,-1.2 7.36,-5.32 0,-2.92 -0.36,-5.04 -0.36,-7.72 0,-1.56 1.08,-3.08 5.8,-3.12 v -2.08 c -4.72,-0.04 -5.8,-1.56 -5.8,-3.12 0,-2.52 0.36,-4.96 0.36,-7.72 0,-4.12 -2.36,-5.319999 -7.36,-5.319999 h -2.44 v 1.879999 h 2.04 c 4.08,0 5,1.04 5,3.64 0,2.28 -0.24,4.76 -0.24,7.24 0,2.6 0.84,3.88 3.6,4.36 v 0.16 c -2.76,0.48 -3.6,1.76 -3.6,4.36 0,2.72 0.24,4.8 0.24,7.24 0,2.6 -0.92,3.64 -5,3.64 h -2.04 z"
+           style=""
+           id="path23822" />
+        <path
+           d="m 214.51094,261.20628 h 17.2 v -2.48 h -17.2 z m 0,8.56 h 17.2 v -2.48 h -17.2 z"
+           style=""
+           id="path23824" />
+      </g>
       <g
          id="g12461"
          transform="translate(29.827681)">
@@ -4813,17 +5044,15 @@
                y1="320"
                x1="200" />
           </g>
-          <text
-             id="text12179"
-             y="296.0769"
-             x="677.0578"
+          <g
+             aria-label="a"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.08200073px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none;stroke-width:0.63063544"
-             xml:space="preserve"><tspan
-               y="296.0769"
-               x="677.0578"
-               id="tspan12177"
-               sodipodi:role="line"
-               style="stroke-width:0.63063544">a</tspan></text>
+             id="text12179">
+            <path
+               d="m 706.84397,297.52989 c 8.35466,0 16.70932,-4.35895 23.24775,-9.4444 h 0.36324 l 0.84758,7.99141 h 8.11249 v -36.08243 c 0,-14.65092 -7.74925,-24.2164 -23.85315,-24.2164 -10.29197,0 -20.2207,4.60111 -26.15372,8.47574 l 3.87463,6.78059 c 5.44869,-3.3903 12.95577,-7.02276 20.58394,-7.02276 11.38171,0 15.37741,6.7806 15.61958,14.77201 -30.39159,2.42164 -42.62087,8.83898 -42.62087,22.03692 0,10.53414 8.96007,16.70932 19.97853,16.70932 z m 2.66381,-7.99141 c -6.7806,0 -12.95578,-2.78489 -12.95578,-9.4444 0,-7.74925 7.74925,-12.71361 32.93431,-14.772 v 15.49849 c -6.65951,5.56977 -13.31902,8.71791 -19.97853,8.71791 z"
+               style="stroke-width:0.63063544"
+               id="path23827" />
+          </g>
           <polygon
              points="200,320 340,260 340,80 200,110 "
              id="polygon12167"
@@ -4840,17 +5069,19 @@
              style="fill:#98971a;fill-opacity:0.18518515;stroke:#98971a;stroke-width:3;stroke-linejoin:round"
              transform="matrix(0.63063541,0,0,0.63063541,590.42374,151.32216)" />
         </g>
-        <text
-           xml:space="preserve"
+        <g
+           aria-label="or"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Hasklig;-inkscape-font-specification:'Hasklig, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f5d7;fill-opacity:1;stroke:none"
-           x="515.55634"
-           y="270.05301"
-           id="text12217"><tspan
+           id="text12217">
+          <path
+             d="m 525.55634,270.53301 c 5.92,0 11.16,-5.08 11.16,-11.88 0,-5.04 -3.04,-8.52 -8.12,-8.52 -5.96,0 -11.2,5.08 -11.2,11.88 0,5.04 3.04,8.52 8.16,8.52 z m 0.2,-2.56 c -3.28,0 -5.24,-2.4 -5.24,-6.16 0,-5.04 3.72,-9.12 7.84,-9.12 3.32,0 5.28,2.36 5.28,6.16 0,5.04 -3.76,9.12 -7.88,9.12 z"
              style="font-style:italic"
-             sodipodi:role="line"
-             id="tspan12215"
-             x="515.55634"
-             y="270.05301">or</tspan></text>
+             id="path23757" />
+          <path
+             d="m 543.42071,270.05301 h 3.04 l 2.04,-10.12 c 2.68,-4.16 5.8,-7 8.8,-7 1.28,0 2.24,0.2 3.24,0.84 l 1.2,-2.64 c -0.92,-0.64 -2.2,-1 -3.92,-1 -3.36,0 -6.52,2.72 -8.68,6.04 h -0.16 l 0.84,-5.56 h -2.52 z"
+             style="font-style:italic"
+             id="path23759" />
+        </g>
       </g>
       <text
          id="text33313"
