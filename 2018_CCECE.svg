@@ -11,39 +11,39 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   enable-background="new"
-   sodipodi:docname="2018_CCECE.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 1024 768"
+   width="1024"
    height="768"
-   width="1024">
+   viewBox="0 0 1024 768"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="2018_CCECE.svg"
+   enable-background="new">
   <sodipodi:namedview
-     borderlayer="true"
-     showguides="true"
-     guidetolerance="1"
-     gridtolerance="1"
-     objecttolerance="1"
-     inkscape:window-maximized="0"
-     inkscape:window-y="25"
-     inkscape:window-x="5"
-     inkscape:window-height="1168"
-     inkscape:window-width="1908"
-     inkscape:pagecheckerboard="false"
-     units="px"
-     showgrid="true"
-     inkscape:document-units="px"
-     inkscape:cy="375.10188"
-     inkscape:cx="563.42766"
-     inkscape:zoom="0.7"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     borderopacity="1.0"
-     bordercolor="#666666"
-     pagecolor="#171717"
+     inkscape:current-layer="layer4"
      id="base"
-     inkscape:current-layer="svg8">
+     pagecolor="#171717"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="364.07024"
+     inkscape:cy="309.09227"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:window-width="1908"
+     inkscape:window-height="1168"
+     inkscape:window-x="5"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     objecttolerance="1"
+     gridtolerance="1"
+     guidetolerance="1"
+     showguides="true"
+     borderlayer="true">
     <inkscape:grid
        empopacity="0.25098039"
        empcolor="#ff3f3f"
@@ -2615,11 +2615,11 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:none"
      inkscape:label="Type Cat"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        inkscape:label="Layer 1"
        id="layer1-2"
@@ -3403,6 +3403,7 @@
          id="tspan7057"
          sodipodi:role="line" /></text>
     <g
+       ns1:effectIn="name:fade;order:2;length:300"
        id="g8818">
       <g
          id="g8083"
@@ -3538,19 +3539,21 @@
            id="path41619-3-43-3-9"
            inkscape:connector-curvature="0" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#cc241d;fill-opacity:1;stroke:none"
+         x="613.89917"
+         y="645.24573"
+         id="text8406"><tspan
+           sodipodi:role="line"
+           id="tspan8404"
+           x="613.89917"
+           y="645.24573">Orion</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cc241d;fill-opacity:1;stroke:none"
-       x="612.2735"
-       y="614.05579"
-       id="text8406"><tspan
-         sodipodi:role="line"
-         id="tspan8404"
-         x="612.2735"
-         y="614.05579">Orion</tspan></text>
     <g
-       id="g11877">
+       id="g11877"
+       ns1:effectIn="name:fade;order:1;length:300"
+       ns1:effectOut="name:appear;order:2;length:300">
       <path
          style="display:inline;fill:none;stroke:#fb4934;stroke-width:2;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lend);marker-mid:url(#DotL);marker-end:url(#marker1715)"
          d="M 243.57304,633.90225 295.35331,492.79379 597.59714,345.57766 546.07411,240.5218 467.05288,102.37075"
@@ -4528,8 +4531,7 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:label="std::optional"
      id="layer4"
      inkscape:groupmode="layer">
