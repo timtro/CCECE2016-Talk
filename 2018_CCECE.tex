@@ -1,0 +1,39 @@
+%!TEX program = lualatex
+\documentclass{beamer}
+
+\usepackage{tLibertinus}
+\usepackage{tCodeListing}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+
+\title{Maybe \emph{and} Either Monads\\ \emph{in} Plain C++17}
+\author[Tim Teatro]{\textbf{Timothy A. V. Teatro} \and J. Mikael Eklund \and Ruth Milman}
+\date{May 16, 2018}
+
+\institute{
+  Departement of Electrical, Computer and Software Engineering\\
+  University of Ontario Institute of Technology}
+
+\titlegraphic{%
+  \includegraphics[width=2cm]{/home/timtro/Documents/logos/UOIT_RGB}}
+
+\begin{document}
+
+\frame{\titlepage}
+
+
+\begin{frame}[containsverbatim]
+\begin{lstlisting}
+template <typename T, typename F>
+auto bindM(std::optional<T> m, F f)
+    -> decltype(std::invoke(f, *m)) {
+  if (m)
+    return std::invoke(f, *m);
+  else
+    return {};
+}
+\end{lstlisting}
+\end{frame}
+
+\end{document}

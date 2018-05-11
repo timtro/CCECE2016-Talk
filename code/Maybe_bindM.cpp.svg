@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="Hasklig" font-size="31px">
+<text x="0" y="31" xml:space="preserve"><tspan font-style="italic">//&#160;unit&lt;A&gt;(x)&#160;=&#160;std::make_optional&lt;A&gt;(x)</tspan></text>
+<text x="0" y="77" xml:space="preserve"><tspan font-style="italic"></tspan></text>
+<text x="0" y="123" xml:space="preserve"><tspan font-weight="bold">template</tspan>&#160;&lt;<tspan font-weight="bold">typename</tspan>&#160;T,&#160;<tspan font-weight="bold">typename</tspan>&#160;F&gt;</text>
+<text x="0" y="169" xml:space="preserve"><tspan font-weight="bold">auto</tspan>&#160;bindM(std::optional&lt;T&gt;&#160;m,&#160;F&#160;f)</text>
+<text x="0" y="215" xml:space="preserve">&#160;&#160;&#160;&#160;-&gt;&#160;<tspan font-weight="bold">decltype</tspan>(std::invoke(f,&#160;*m))&#160;{</text>
+<text x="0" y="261" xml:space="preserve">&#160;&#160;<tspan font-weight="bold">if</tspan>&#160;(m)</text>
+<text x="0" y="307" xml:space="preserve">&#160;&#160;&#160;&#160;<tspan font-weight="bold">return</tspan>&#160;std::invoke(f,&#160;*m);</text>
+<text x="0" y="353" xml:space="preserve">&#160;&#160;<tspan font-weight="bold">else</tspan></text>
+<text x="0" y="399" xml:space="preserve">&#160;&#160;&#160;&#160;<tspan font-weight="bold">return</tspan>&#160;{};</text>
+<text x="0" y="445" xml:space="preserve">}</text>
+<text x="0" y="491" xml:space="preserve"></text></g></svg>

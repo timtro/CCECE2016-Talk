@@ -1,0 +1,68 @@
+\usepackage[utf8]{luainputenc}
+\usepackage{tikz}
+\usepackage{amsmath, commath, mathtools}
+\usepackage{lualatex-math}
+\usepackage{xcolor}
+
+
+%%% Font selection and related definitions
+%====================================================================
+
+% Mostly imported from tLibertinus
+\usepackage{pgfornament}
+\usepackage{fontspec}
+\defaultfontfeatures{RawFeature=+calt}
+\setmainfont{libertinusserif-regular.otf}[
+    Path = {/home/timtro/.fonts/type1/Libertinus/}
+  , ItalicFont = libertinusserif-italic.otf
+  , BoldFont = libertinusserif-semibold.otf
+  , BoldItalicFont = libertinusserif-bolditalic.otf ]
+\setsansfont{libertinussans-regular.otf}[
+    Path = {/home/timtro/.fonts/type1/Libertinus/}
+  , ItalicFont = libertinussans-italic.otf
+  , BoldFont = libertinussans-bold.otf ]
+\setmonofont{Hasklig}[
+    Scale = MatchLowercase
+  , BoldFont = *-Semibold
+  , ItalicFont = *-It
+  , BoldItalicFont = *-SemiboldIt ]
+
+\newfontfamily{\textdf}[
+  Path = {/home/timtro/.fonts/type1/Libertinus/}
+    ]{libertinusserifdisplay-regular.otf}
+
+\newfontfamily{\textsb}[
+  Path = {/home/timtro/.fonts/type1/Libertinus/}
+    ]{libertinusserif-semibold.otf}
+
+\newfontfamily{\textsbit}[
+  Path = {/home/timtro/.fonts/type1/Libertinus/}
+    ]{libertinusserif-semibolditalic.otf}
+
+\ifluatex\usepackage{lualatex-math}\fi
+\usepackage[math-style=ISO, partial=upright]{unicode-math}
+\setmathfont[
+    Path = {/home/timtro/.fonts/type1/Libertinus/}
+  , AutoFakeBold
+    ]{libertinusmath-regular.otf}
+
+\setmathfont[range={}]{libertinusmath-regular.otf} % Reload with empty range for correct spacing
+
+\renewcommand{\familydefault}{\sfdefault}
+
+%%% Drawing and Diagrams
+%====================================================================
+
+\usepackage{tikz-cd}
+\usetikzlibrary{arrows,arrows.meta,positioning,shapes,snakes,fit,calc}
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main}
+\tikzcdset{arrow style=tikz, diagrams={>=stealth'}}
+\tikzset{ shorten <>/.style={ shorten >=#1, shorten <=#1 } }
+% \usepackage{tikz-uml}
+% \tikzumlset{font=\footnotesize\ttfamily}
+% \tikzumlset{fill class=white}
+
+%%% Code listings
+%====================================================================
+\usepackage{tCodeListing}
