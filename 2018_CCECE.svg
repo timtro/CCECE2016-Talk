@@ -20,16 +20,16 @@
    sodipodi:docname="2018_CCECE.svg"
    enable-background="new">
   <sodipodi:namedview
-     inkscape:current-layer="g1096"
+     inkscape:current-layer="layer11"
      id="base"
      pagecolor="#171717"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="359.52455"
-     inkscape:cy="430.31058"
+     inkscape:zoom="0.7"
+     inkscape:cx="514.09147"
+     inkscape:cy="466.70706"
      inkscape:document-units="px"
      showgrid="true"
      units="px"
@@ -2133,7 +2133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5762,19 +5762,61 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Thanks!"
-     sodipodi:insensitive="true"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:170.12428284px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458588;fill-opacity:1;stroke:none;stroke-width:4.25310707"
-       x="360.90527"
-       y="634.12628"
+       x="90.184387"
+       y="213.90282"
        id="text36976"><tspan
          sodipodi:role="line"
          id="tspan36974"
-         x="360.90527"
-         y="634.12628"
+         x="90.184387"
+         y="213.90282"
          style="stroke-width:4.25310707">Thanks!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f5d7;fill-opacity:1;stroke:none"
+       x="833.47577"
+       y="368.79999"
+       id="text80268"><tspan
+         sodipodi:role="line"
+         id="tspan80266"
+         x="833.47577"
+         y="368.79999">Ben Deane</tspan><tspan
+         sodipodi:role="line"
+         x="833.47577"
+         y="418.79999"
+         id="tspan80270">@ben_deane</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f5d7;fill-opacity:1;stroke:none"
+       x="205.16077"
+       y="369.79999"
+       id="text80274"><tspan
+         sodipodi:role="line"
+         id="tspan80272"
+         x="205.16077"
+         y="369.79999">Simon Brand</tspan><tspan
+         sodipodi:role="line"
+         x="205.16077"
+         y="419.79999"
+         id="tspan80276">@TartanLlama</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Libertinus Sans';-inkscape-font-specification:'Libertinus Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#f9f5d7;fill-opacity:1;stroke:none"
+       x="519.646"
+       y="372.07999"
+       id="text80280"><tspan
+         sodipodi:role="line"
+         id="tspan80278"
+         x="519.646"
+         y="372.07999">Ivan Čukić</tspan><tspan
+         sodipodi:role="line"
+         x="519.646"
+         y="422.07999"
+         id="tspan80282">@ivan_cukic</tspan></text>
   </g>
   <script
      id="JessyInk"
